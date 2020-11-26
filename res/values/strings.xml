@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">myapp2</string>
+    <string name="student">Student</string>
+    <string name="admin">Admin</string>
+    <string name="register">Register</string>
+    <string name="view_courses">View Courses</string>
+    <string name="apply_for_a_course">Apply for a course</string>
+    <string name="add_a_new_course">Add a new course</string>
+    <string name="view_student">View Student</string>
+    <string name="view_course">View Course</string>
+    <string name="enter_course_id">enter course id</string>
+    <string name="enter_course_name">enter course name</string>
+    <string name="enter_course_duration">enter course duration</string>
+    <string name="enter_course_fees">enter course fees</string>
+    <string name="submit">submit</string>
+</resources>
